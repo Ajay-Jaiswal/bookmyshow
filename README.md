@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+Context Setting & introduction
+Explain the expectations of the evaluator from the assignment 
+Showing knowledge and other awareness while implementing specific asks
+How to build intuition and build a solution from scratch even when you have never dealt with a similar situation in the past
+Agenda overview
+System Flow Discussion
+Home Screen Movie Display
+Why React & NOT Vanilla JS?
+Data Structure for layout and storing seat-related info
+Seat selection UI
+Constraints and discussion
+Problem Statement Discussion
+This would mostly be a live coding session, where I will build a React app from scratch with them
+Start with a general React installation and setup the intro 
+Data Schema discussion followed by Sample data JSON file construction and how it will be consumed by different components
+The approach is as follows:
+Home Page component
+List All Movie Shows
+Booking Flow complex component- 
+At least 4 to 5 sub-component
+Ability to select a show from multiple shows for a particular movie
+Ability to select a seat type & quantity
+Seat Layout
+Seat Component with all the configuration setup- Available, Unavailable, Selected Highlighting
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Approach 
+Ask clarifying questions
+VVIP: Discuss Edge cases
+Take a few breaks in between and make sure you are on the same with the interviewer
+Not necessary to solve the complete problem, but focus on the important stuff and ask the interviewer if they want you to explain/implement the basic stuff as well
+Give examples from real-world and connect the dots on how a feature can add value to people’s life
+Pseudo Code Sharing + Interview Strategy
+Start with comments
+Pseudocode !== Actual code, mind the gap, and don’t start explaining and implementing the actual stuff
+Variable naming is more important than you think!
+Make sure that you are not missing out on key things that the assignment mentioned, comments can actually help you in translating plain English into Pseudocode
+A dry run always helps and is essential for both of you(You and the Interviewer).
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Question & Answer (Q&A)
+References (Youtube videos, Glassdoor, and other such platforms, Practice questions, Websites to refer to)
